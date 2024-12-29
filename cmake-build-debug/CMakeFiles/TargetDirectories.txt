@@ -1,0 +1,3 @@
+C:/Users/w1445/Desktop/Microcontroller_project/Balance_leg/Code/Balance_V2/LTDC-800-480/cmake-build-debug/CMakeFiles/LTDC-800-480.elf.dir
+C:/Users/w1445/Desktop/Microcontroller_project/Balance_leg/Code/Balance_V2/LTDC-800-480/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/w1445/Desktop/Microcontroller_project/Balance_leg/Code/Balance_V2/LTDC-800-480/cmake-build-debug/CMakeFiles/rebuild_cache.dir
